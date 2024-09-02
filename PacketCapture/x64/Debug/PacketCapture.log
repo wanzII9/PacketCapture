@@ -1,0 +1,91 @@
+﻿  PacketCaptureDlg.cpp
+C:\pcap++\include\TLVData.h(36,12): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
+C:\pcap++\include\IPv6Extensions.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\pcap++\include\IgmpLayer.h(92,10): warning C4200: 비표준 확장이 사용됨: 구조체/공용 구조체의 배열 크기가 0입니다.
+C:\Users\kisec\Desktop\Project\PacketCapture\PacketCapture\PacketCaptureDlg.cpp(123,45): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kisec\Desktop\Project\PacketCapture\PacketCapture\PacketCaptureDlg.cpp(137,37): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kisec\Desktop\Project\PacketCapture\PacketCapture\PacketCaptureDlg.cpp(190,69): warning C4244: '인수': 'DWORD_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kisec\Desktop\Project\PacketCapture\PacketCapture\PacketCaptureDlg.cpp(191,65): warning C4244: '인수': 'DWORD_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kisec\Desktop\Project\PacketCapture\PacketCapture\PacketCaptureDlg.cpp(1410,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kisec\Desktop\Project\PacketCapture\PacketCapture\PacketCaptureDlg.cpp(1413,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kisec\Desktop\Project\PacketCapture\PacketCapture\PacketCaptureDlg.cpp(1430,3): warning C4002: 함수 같은 매크로 호출 '_T'에 대해 인수가 너무 많습니다.
+Common++.lib(IpAddress.obj) : warning LNK4099: '' PDB를 'Common++.lib(IpAddress.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Common++.lib(MacAddress.obj) : warning LNK4099: '' PDB를 'Common++.lib(MacAddress.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Common++.lib(SystemUtils.obj) : warning LNK4099: '' PDB를 'Common++.lib(SystemUtils.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Common++.lib(Logger.obj) : warning LNK4099: '' PDB를 'Common++.lib(Logger.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(Packet.obj) : warning LNK4099: '' PDB를 'Packet++.lib(Packet.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(IcmpLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(IcmpLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(IcmpV6Layer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(IcmpV6Layer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(IgmpLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(IgmpLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(HttpLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(HttpLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(RawPacket.obj) : warning LNK4099: '' PDB를 'Packet++.lib(RawPacket.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(TcpLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(TcpLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(UdpLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(UdpLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(Layer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(Layer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(EthLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(EthLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(EthDot3Layer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(EthDot3Layer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(SllLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(SllLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(Sll2Layer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(Sll2Layer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(NflogLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(NflogLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(NullLoopbackLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(NullLoopbackLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(IPv4Layer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(IPv4Layer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(IPv6Layer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(IPv6Layer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(PayloadLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(PayloadLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(PacketTrailerLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(PacketTrailerLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(PacketUtils.obj) : warning LNK4099: '' PDB를 'Packet++.lib(PacketUtils.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(NdpLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(NdpLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(TextBasedProtocol.obj) : warning LNK4099: '' PDB를 'Packet++.lib(TextBasedProtocol.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(TLVData.obj) : warning LNK4099: '' PDB를 'Packet++.lib(TLVData.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(SSLLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(SSLLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(SipLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(SipLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(BgpLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(BgpLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(SSHLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(SSHLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(DnsLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(DnsLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(TelnetLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(TelnetLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(TpktLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(TpktLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(SingleCommandTextProtocol.obj) : warning LNK4099: '' PDB를 'Packet++.lib(SingleCommandTextProtocol.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(FtpLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(FtpLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(SomeIpLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(SomeIpLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(DhcpLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(DhcpLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(DhcpV6Layer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(DhcpV6Layer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(VxlanLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(VxlanLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(RadiusLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(RadiusLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(GtpLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(GtpLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(NtpLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(NtpLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(WakeOnLanLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(WakeOnLanLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(ArpLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(ArpLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(VlanLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(VlanLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(PPPoELayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(PPPoELayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(MplsLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(MplsLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(LLCLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(LLCLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(GreLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(GreLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(IPSecLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(IPSecLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(VrrpLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(VrrpLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(IPv6Extensions.obj) : warning LNK4099: '' PDB를 'Packet++.lib(IPv6Extensions.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(SSLCommon.obj) : warning LNK4099: '' PDB를 'Packet++.lib(SSLCommon.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(SSLHandshake.obj) : warning LNK4099: '' PDB를 'Packet++.lib(SSLHandshake.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(SdpLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(SdpLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(DnsResource.obj) : warning LNK4099: '' PDB를 'Packet++.lib(DnsResource.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(CotpLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(CotpLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(SomeIpSdLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(SomeIpSdLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(StpLayer.obj) : warning LNK4099: '' PDB를 'Packet++.lib(StpLayer.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(md5.obj) : warning LNK4099: '' PDB를 'Packet++.lib(md5.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Packet++.lib(DnsResourceData.obj) : warning LNK4099: '' PDB를 'Packet++.lib(DnsResourceData.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Pcap++.lib(PcapFilter.obj) : warning LNK4099: '' PDB를 'Pcap++.lib(PcapFilter.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Pcap++.lib(PcapDevice.obj) : warning LNK4099: '' PDB를 'Pcap++.lib(PcapDevice.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Pcap++.lib(PcapLiveDevice.obj) : warning LNK4099: '' PDB를 'Pcap++.lib(PcapLiveDevice.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Pcap++.lib(PcapLiveDeviceList.obj) : warning LNK4099: '' PDB를 'Pcap++.lib(PcapLiveDeviceList.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Pcap++.lib(PcapFileDevice.obj) : warning LNK4099: '' PDB를 'Pcap++.lib(PcapFileDevice.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Pcap++.lib(WinPcapLiveDevice.obj) : warning LNK4099: '' PDB를 'Pcap++.lib(WinPcapLiveDevice.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Pcap++.lib(light_pcapng_ext.obj) : warning LNK4099: '' PDB를 'Pcap++.lib(light_pcapng_ext.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Pcap++.lib(light_platform.obj) : warning LNK4099: '' PDB를 'Pcap++.lib(light_platform.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Pcap++.lib(light_pcapng.obj) : warning LNK4099: '' PDB를 'Pcap++.lib(light_pcapng.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Pcap++.lib(light_option.obj) : warning LNK4099: '' PDB를 'Pcap++.lib(light_option.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Pcap++.lib(light_manipulate.obj) : warning LNK4099: '' PDB를 'Pcap++.lib(light_manipulate.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Pcap++.lib(light_alloc.obj) : warning LNK4099: '' PDB를 'Pcap++.lib(light_alloc.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Pcap++.lib(light_compression.obj) : warning LNK4099: '' PDB를 'Pcap++.lib(light_compression.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Pcap++.lib(light_internal.obj) : warning LNK4099: '' PDB를 'Pcap++.lib(light_internal.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Pcap++.lib(light_null_compression.obj) : warning LNK4099: '' PDB를 'Pcap++.lib(light_null_compression.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Common++.lib(GeneralUtils.obj) : warning LNK4099: '' PDB를 'Common++.lib(GeneralUtils.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Common++.lib(IpUtils.obj) : warning LNK4099: '' PDB를 'Common++.lib(IpUtils.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  PacketCapture.vcxproj -> C:\Users\kisec\Desktop\Project\PacketCapture\x64\Debug\PacketCapture.exe

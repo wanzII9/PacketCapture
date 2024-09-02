@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PacketCapture", "PacketCapture\PacketCapture.vcxproj", "{3F453A22-F099-4F5F-9E32-804E694A3957}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F453A22-F099-4F5F-9E32-804E694A3957}.Debug|x64.ActiveCfg = Debug|x64
+		{3F453A22-F099-4F5F-9E32-804E694A3957}.Debug|x64.Build.0 = Debug|x64
+		{3F453A22-F099-4F5F-9E32-804E694A3957}.Debug|x86.ActiveCfg = Debug|Win32
+		{3F453A22-F099-4F5F-9E32-804E694A3957}.Debug|x86.Build.0 = Debug|Win32
+		{3F453A22-F099-4F5F-9E32-804E694A3957}.Release|x64.ActiveCfg = Release|x64
+		{3F453A22-F099-4F5F-9E32-804E694A3957}.Release|x64.Build.0 = Release|x64
+		{3F453A22-F099-4F5F-9E32-804E694A3957}.Release|x86.ActiveCfg = Release|Win32
+		{3F453A22-F099-4F5F-9E32-804E694A3957}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B18F50E-8F2A-44E4-81BC-F0BF8DB8AA19}
+	EndGlobalSection
+EndGlobal
