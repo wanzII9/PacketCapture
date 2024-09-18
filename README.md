@@ -1,5 +1,4 @@
 ## 패킷 분석 프로그램
-___
 ![PacketAnalysis2024-09-1822-45-42-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6d4899f6-13e6-4540-b701-628b40a0f432)
 
 ## 기능
