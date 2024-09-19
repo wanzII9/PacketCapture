@@ -38,7 +38,8 @@
 
 <h4>✨ Packet Detail 표시 ✨</h4>
 
-![image](https://github.com/user-attachments/assets/2e83b9bd-f226-4c36-b01b-5f86a8af7cfe)
+![image](https://github.com/user-attachments/assets/ebc262aa-6265-4672-93fd-badd22fd276f)
+
 
 <h4>✨ Packet Bytes 표시 ✨</h4>
 
@@ -49,7 +50,6 @@
 ![image](https://github.com/user-attachments/assets/7e4f9d26-92e6-4589-9c22-444b82358361)
 
 <h4>✨ pcap/pcapng 파일 저장 ✨</h4>
-- **동작 결과**  
 
 ![file_save-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1bf24799-d739-4f4e-8d80-78c598f7f995)
 
@@ -57,7 +57,6 @@
 ![image](https://github.com/user-attachments/assets/9491d556-71f1-4dcf-a044-da901a5d1712)
 
 <h4>✨ pcap/pcapng 파일 열기 ✨</h4>
-- **동작 결과**  
 
 ![file_open](https://github.com/user-attachments/assets/8323a510-4ab4-465e-944a-2e2ab59e24ee)
 
