@@ -53,6 +53,6 @@
 
 ![image](https://github.com/user-attachments/assets/9491d556-71f1-4dcf-a044-da901a5d1712)
 
-<h4>✨ pcap/pcapng 파일 열기 ✨</h4>
+<h4>✨ pcap/pcapng 파일 열기  </h4>
 
 ![image](https://github.com/user-attachments/assets/ae5d5c33-9ca2-4d8f-8b1c-d2e62c9963cf)
