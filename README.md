@@ -13,46 +13,17 @@
 - 필터링 기능
 
 
-## 기능별 동작절차
-<h4>✨ 네트워크 인터페이스 선택  </h4>
-
-![image](https://github.com/user-attachments/assets/6e149079-179e-46a4-a6ad-1caabe3f1b79)
-
-
-<h4>✨ Start Button  </h4>
-
-![image](https://github.com/user-attachments/assets/b00861e2-b73f-4062-b2bb-5950482ce55f)
+## 개발 내용
+- 파일 형태로 전체 패킷 정보 관리  
+패킷이 캡처될 때마다 파일에 패킷 정보를 누적해서 저장하며, 전체 패킷 정보는 이후 필터링 기능 및 세부 정보 출력에 활용됩니다. 이를 위해 .dat 파일 형태로 저장하여 바이너리 형식으로 효율적인 데이터 저장을 가능하게 했습니다. 또한, 패킷의 Raw Data를 저장할 때 나중에 분석할 수 있도록 시간과 길이 정보를 함께 기록하였습니다. 패킷 캡처가 새로 시작될 때는 기존 파일을 삭제하고 새로운 파일을 생성합니다.
 
 
-<h4>✨ 패킷 캡처 기능  </h4>
-
-![image](https://github.com/user-attachments/assets/9ef09404-b178-4910-bc58-e88775db2324)
-
-<h4>✨ 프로토콜에 따른 정보 추출 절차  </h4>
-
+- 파일 형태로 전체 패킷 정보 관리  
+  OSI 7계층 원리를 적용하여, 각 계층별로 순차적으로 프로토콜 정보를 추출하였습니다. 필요한 정보가 모두 파싱되면 UI 업데이트 구문으로 이동하여, 불필요한 구문을 거치지 않도록 코드를 작성하여 효율성을 높였습니다.  
 ![image](https://github.com/user-attachments/assets/c9bc736e-9225-4c40-84b1-b6df6c50c9e4)
 
-<h4>✨ Stop Button  </h4>
 
-![image](https://github.com/user-attachments/assets/c5d82b4a-cbdf-43fa-8b09-3ea0d86bb821)
-
-<h4>✨ Packet Detail 표시  </h4>
-
-![image](https://github.com/user-attachments/assets/ebc262aa-6265-4672-93fd-badd22fd276f)
+- 실시간 패킷 캡처 기능을 위한 큐 활용  
+패킷 정보가 덮어씌워지는 문제를 방지하기 위해 패킷 정보를 구조체 형태로 순차적으로 큐에 저장한 후, UI 업데이트 함수에서 큐의 데이터를 빼내어 화면에 출력되도록 하였습니다.
 
 
-<h4>✨ Packet Bytes 표시  </h4>
-
-![image](https://github.com/user-attachments/assets/e65aa7fe-df79-4fcd-9b51-510492e7a725)
-
-<h4>✨ 필터링 기능  </h4>
-
-![image](https://github.com/user-attachments/assets/7e4f9d26-92e6-4589-9c22-444b82358361)
-
-<h4>✨ pcap/pcapng 파일 저장  </h4>
-
-![image](https://github.com/user-attachments/assets/9491d556-71f1-4dcf-a044-da901a5d1712)
-
-<h4>✨ pcap/pcapng 파일 열기  </h4>
-
-![image](https://github.com/user-attachments/assets/ae5d5c33-9ca2-4d8f-8b1c-d2e62c9963cf)
